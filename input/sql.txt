@@ -1,0 +1,6 @@
+select
+    name,
+    age,
+    score
+from
+    age > 18
